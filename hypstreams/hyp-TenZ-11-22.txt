@@ -1,0 +1,3 @@
+!sens
+!command
+time to win?
