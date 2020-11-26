@@ -1,0 +1,48 @@
+time,hype count,state,prediction
+0,0,not hype,not hype
+1,0,not hype,not hype
+2,0,not hype,not hype
+3,0,not hype,not hype
+4,1,not hype,hype
+5,0,not hype,not hype
+6,0,not hype,not hype
+7,1,not hype,hype
+8,2,not hype,hype
+9,1,not hype,not hype
+10,0,not hype,not hype
+11,1,not hype,hype
+12,2,not hype,hype
+13,3,not hype,hype
+14,2,not hype,not hype
+15,1,not hype,not hype
+16,2,not hype,hype
+17,1,not hype,not hype
+18,0,not hype,not hype
+19,0,not hype,not hype
+20,0,not hype,not hype
+21,0,not hype,not hype
+22,1,not hype,hype
+23,2,not hype,hype
+24,1,not hype,not hype
+25,0,not hype,not hype
+26,0,not hype,not hype
+27,0,not hype,not hype
+28,0,not hype,not hype
+29,1,not hype,hype
+30,0,not hype,not hype
+31,1,not hype,hype
+32,0,not hype,not hype
+33,1,not hype,hype
+34,0,not hype,not hype
+35,1,not hype,hype
+36,0,not hype,not hype
+37,1,not hype,hype
+38,2,not hype,hype
+39,3,not hype,hype
+40,4,not hype,hype
+41,5,not hype,hype
+42,6,not hype,hype
+43,7,not hype,hype
+44,6,not hype,not hype
+45,5,not hype,not hype
+46,6,not hype,hype

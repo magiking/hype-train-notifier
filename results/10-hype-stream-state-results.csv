@@ -1,0 +1,9 @@
+name,stream label,majority state,% of time hype, # of comments in hype state
+hyp-TenZ-11-22.txt,hype,not hype,0.0,0
+hyp-esl_csgo-11-22.txt,hype,hype,0.910828025477707,143
+hyp-timthetatman-11-22.txt,hype,hype,0.9133858267716536,116
+hyp-moistcr1tikal-11-15.txt,hype,hype,0.7578947368421053,144
+hypestreams.txt,hype,not hype,0.0,0
+hyp-GMHikaru-11-22.txt,hype,hype,0.9340277777777778,269
+hyp-eslcsgo2-11-22.txt,hype,hype,0.9142857142857143,96
+hyp-loltyler1-11-22.txt,hype,hype,0.8512396694214877,103

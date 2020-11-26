@@ -1,0 +1,192 @@
+time,hype count,state,prediction
+0,1,not hype,hype
+1,2,not hype,hype
+2,1,not hype,not hype
+3,0,not hype,not hype
+4,0,not hype,not hype
+5,1,not hype,hype
+6,0,not hype,not hype
+7,1,not hype,hype
+8,2,not hype,hype
+9,3,not hype,hype
+10,4,not hype,hype
+11,3,not hype,not hype
+12,2,not hype,not hype
+13,3,not hype,hype
+14,2,not hype,not hype
+15,3,not hype,hype
+16,2,not hype,not hype
+17,1,not hype,not hype
+18,2,not hype,hype
+19,1,not hype,not hype
+20,2,not hype,hype
+21,3,not hype,hype
+22,4,not hype,hype
+23,5,not hype,hype
+24,4,not hype,not hype
+25,3,not hype,not hype
+26,4,not hype,hype
+27,3,not hype,not hype
+28,4,not hype,hype
+29,3,not hype,not hype
+30,2,not hype,not hype
+31,3,not hype,hype
+32,4,not hype,hype
+33,5,not hype,hype
+34,4,not hype,not hype
+35,5,not hype,hype
+36,4,not hype,not hype
+37,5,not hype,hype
+38,4,not hype,not hype
+39,5,not hype,hype
+40,6,not hype,hype
+41,5,not hype,not hype
+42,6,not hype,hype
+43,7,not hype,hype
+44,8,not hype,hype
+45,9,not hype,hype
+46,10,hype,hype
+47,11,hype,hype
+48,12,hype,hype
+49,13,hype,hype
+50,14,hype,hype
+51,15,hype,hype
+52,14,hype,not hype
+53,15,hype,hype
+54,14,hype,not hype
+55,15,hype,hype
+56,14,hype,not hype
+57,13,hype,not hype
+58,14,hype,hype
+59,15,hype,hype
+60,16,hype,hype
+61,17,hype,hype
+62,18,hype,hype
+63,19,hype,hype
+64,20,hype,hype
+65,21,hype,hype
+66,22,hype,hype
+67,23,hype,hype
+68,22,hype,not hype
+69,23,hype,hype
+70,24,hype,hype
+71,25,hype,hype
+72,26,hype,hype
+73,27,hype,hype
+74,28,hype,hype
+75,29,hype,hype
+76,30,hype,hype
+77,29,hype,not hype
+78,30,hype,hype
+79,31,hype,hype
+80,32,hype,hype
+81,33,hype,hype
+82,34,hype,hype
+83,35,hype,hype
+84,36,hype,hype
+85,37,hype,hype
+86,38,hype,hype
+87,39,hype,hype
+88,40,hype,hype
+89,41,hype,hype
+90,42,hype,hype
+91,43,hype,hype
+92,44,hype,hype
+93,45,hype,hype
+94,46,hype,hype
+95,47,hype,hype
+96,46,hype,not hype
+97,47,hype,hype
+98,48,hype,hype
+99,49,hype,hype
+100,50,hype,hype
+101,51,hype,hype
+102,52,hype,hype
+103,53,hype,hype
+104,54,hype,hype
+105,55,hype,hype
+106,56,hype,hype
+107,55,hype,not hype
+108,56,hype,hype
+109,55,hype,not hype
+110,56,hype,hype
+111,57,hype,hype
+112,58,hype,hype
+113,59,hype,hype
+114,60,hype,hype
+115,61,hype,hype
+116,62,hype,hype
+117,63,hype,hype
+118,64,hype,hype
+119,65,hype,hype
+120,66,hype,hype
+121,67,hype,hype
+122,68,hype,hype
+123,67,hype,not hype
+124,68,hype,hype
+125,69,hype,hype
+126,68,hype,not hype
+127,67,hype,not hype
+128,68,hype,hype
+129,69,hype,hype
+130,70,hype,hype
+131,71,hype,hype
+132,72,hype,hype
+133,73,hype,hype
+134,74,hype,hype
+135,75,hype,hype
+136,76,hype,hype
+137,77,hype,hype
+138,78,hype,hype
+139,79,hype,hype
+140,80,hype,hype
+141,81,hype,hype
+142,82,hype,hype
+143,83,hype,hype
+144,84,hype,hype
+145,83,hype,not hype
+146,84,hype,hype
+147,85,hype,hype
+148,86,hype,hype
+149,87,hype,hype
+150,88,hype,hype
+151,89,hype,hype
+152,90,hype,hype
+153,89,hype,not hype
+154,90,hype,hype
+155,89,hype,not hype
+156,88,hype,not hype
+157,89,hype,hype
+158,90,hype,hype
+159,91,hype,hype
+160,92,hype,hype
+161,93,hype,hype
+162,94,hype,hype
+163,95,hype,hype
+164,96,hype,hype
+165,97,hype,hype
+166,98,hype,hype
+167,99,hype,hype
+168,100,hype,hype
+169,101,hype,hype
+170,102,hype,hype
+171,103,hype,hype
+172,104,hype,hype
+173,105,hype,hype
+174,106,hype,hype
+175,107,hype,hype
+176,108,hype,hype
+177,109,hype,hype
+178,110,hype,hype
+179,111,hype,hype
+180,112,hype,hype
+181,111,hype,not hype
+182,112,hype,hype
+183,113,hype,hype
+184,114,hype,hype
+185,115,hype,hype
+186,116,hype,hype
+187,117,hype,hype
+188,118,hype,hype
+189,117,hype,not hype
+
