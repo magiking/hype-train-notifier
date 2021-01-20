@@ -1,0 +1,9 @@
+* Hype Train Notification System
+  This system was a class project for
+  UTEPs CS5319 Introduction to Speech and Language Processing course
+  taught by Dr. Nigel Ward.
+  
+  The system gauges the excitement level or "hype" of a stream's content
+  based on the messages posted in the chat.
+  
+  Check out the [[./report.pdf][report]] and [[./presentation.pdf][presentation]] for more information.
